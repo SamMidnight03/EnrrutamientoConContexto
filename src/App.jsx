@@ -5,7 +5,7 @@ import React, { useContext } from 'react'
 
 import { BrowserRouter, Route, Routes } from 'react-router'
 import Login from './pages/Login'
-import Dashboard from './pages/dashboard'
+import Dashboard from './pages/Dashboard'
 import Home from './pages/Home'
 import Agentes from './pages/Agentes'
 
